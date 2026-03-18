@@ -1,8 +1,8 @@
 # Generated from exhibition.setup.yml. Edit that file instead.
-title: Filter Spring Exhibition
-description: Reusable archive template for photography exhibitions on GitHub Pages.
+title: "필터 네번째 사진전 온화: 溫和"
+description: 필링이들의 네번째 이야기
 url: https://filter-log.github.io
-baseurl: /exhibition-template
+baseurl: /exhibition-4th
 timezone: Asia/Seoul
 markdown: kramdown
 permalink: pretty
