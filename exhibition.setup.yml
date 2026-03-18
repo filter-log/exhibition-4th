@@ -1,18 +1,20 @@
 repository:
   separator: "-"
-  suffix: template
+  suffix: 4th
 
 site:
-  title: Filter Spring Exhibition
-  description: Reusable archive template for photography exhibitions on GitHub Pages.
-  dates: 2026.03.20 - 2026.04.12
-  venue: Filter Archive, Seoul
-  tagline: A minimal archive for photographs, artist notes, and exhibition metadata.
-  poster_image: /assets/exhibition/poster-template.svg
-  hero_alt: Filter Spring Exhibition poster
+  title: "필터 네번째 사진전 온화: 溫和"
+  description: 필링이들의 네번째 이야기
+  dates: 2026.03.27 - 2026.03.29
+  venue: 레온갤러리 구의
+  tagline: 필링이들의 네번째 이야기
+  poster_image: /assets/exhibition/exhibition-4th.png
+  hero_alt: Filter 4th Exhibition poster
 
 content:
   exhibition_markdown: |
-    `exhibition-template`는 새로운 전시회 저장소를 빠르게 시작하기 위한 기본 아카이브다. 상단의 포스터와 설명, 하단의 썸네일 타일, 작가 목록, 업로드 UI, Pages CMS, GitHub Actions 후처리 파이프라인이 하나의 저장소 안에서 함께 동작하도록 설계했다.
-
-    새 전시회를 만들 때는 이 파일 하나만 수정하면 `_config.yml`, `assets/js/config.js`, `_exhibition/index.md`가 자동으로 맞춰진다. 작품과 작가 데이터는 각각 컬렉션 파일로 분리되어 있어서 Pages CMS와 Worker 업로드가 같은 마크다운 구조를 공유한다.
+      우리는 쉽게 지나치는 순간들 속에서도 오래 남는 감정이 있다고 믿습니다.
+      필터의 네 번째 전시는 각자가 발견한 빛, 온도, 거리, 마음의 결을 사진으로 엮어낸 자리입니다.
+      사진 속 장면들은 특별한 사건이 아니라, 어쩌면 누구에게나 있었을 법한 평범한 하루의 한 조각일지도 모릅니다.
+      그러나 그 조각들은 누군가의 시선을 거치며 다시 한 번 선명해지고, 보는 이의 기억 속에서도 새로운 의미로 머뭅니다.
+      이 전시가 당신에게도 조용히 오래 남는 한 장면이 되기를 바랍니다.
