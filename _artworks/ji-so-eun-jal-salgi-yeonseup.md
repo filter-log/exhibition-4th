@@ -5,8 +5,8 @@ artist_name: "지소은"
 artist_slug: "ji-so-eun"
 camera_model: "SONY A7C"
 location: "이화벽화마을"
-image: "/originals/ji-so-eun-jal-salgi-yeonseup.jpg"
-thumb_image: "/thumbs/ji-so-eun-jal-salgi-yeonseup.webp"
+image: "/assets/uploads/originals/ji-so-eun-jal-salgi-yeonseup.jpg"
+thumb_image: "/assets/uploads/thumbs/ji-so-eun-jal-salgi-yeonseup.webp"
 featured: false
 order: 8
 ---

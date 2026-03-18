@@ -5,8 +5,8 @@ artist_name: "조영인"
 artist_slug: "jo-yeong-in"
 camera_model: "Canon EOS R5"
 location: "반포대교"
-image: "/originals/jo-yeong-in-gureum-sai-ui-bit.jpg"
-thumb_image: "/thumbs/jo-yeong-in-gureum-sai-ui-bit.webp"
+image: "/assets/uploads/originals/jo-yeong-in-gureum-sai-ui-bit.jpg"
+thumb_image: "/assets/uploads/thumbs/jo-yeong-in-gureum-sai-ui-bit.webp"
 featured: false
 order: 2
 ---

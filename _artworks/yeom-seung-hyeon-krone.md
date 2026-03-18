@@ -6,8 +6,8 @@ artist_slug: "yeom-seung-hyeon"
 camera_model: "SONY A5100"
 location: "체르마트"
 sns_id: "@photo.lill"
-image: "/originals/yeom-seung-hyeon-krone.jpg"
-thumb_image: "/thumbs/yeom-seung-hyeon-krone.webp"
+image: "/assets/uploads/originals/yeom-seung-hyeon-krone.jpg"
+thumb_image: "/assets/uploads/thumbs/yeom-seung-hyeon-krone.webp"
 featured: false
 order: 13
 ---

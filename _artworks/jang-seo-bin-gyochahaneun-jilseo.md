@@ -6,8 +6,8 @@ artist_slug: "jang-seo-bin"
 camera_model: "SONY A7C"
 location: "롯데타워"
 sns_id: "@seobeen.pic"
-image: "/originals/jang-seo-bin-gyochahaneun-jilseo.jpg"
-thumb_image: "/thumbs/jang-seo-bin-gyochahaneun-jilseo.webp"
+image: "/assets/uploads/originals/jang-seo-bin-gyochahaneun-jilseo.jpg"
+thumb_image: "/assets/uploads/thumbs/jang-seo-bin-gyochahaneun-jilseo.webp"
 featured: false
 order: 20
 ---

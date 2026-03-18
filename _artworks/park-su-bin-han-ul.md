@@ -6,8 +6,8 @@ artist_slug: "park-su-bin"
 camera_model: "Canon EOS 600D"
 location: "뉴욕"
 sns_id: "@its_terest_memory"
-image: "/originals/park-su-bin-han-ul.jpg"
-thumb_image: "/thumbs/park-su-bin-han-ul.webp"
+image: "/assets/uploads/originals/park-su-bin-han-ul.jpg"
+thumb_image: "/assets/uploads/thumbs/park-su-bin-han-ul.webp"
 featured: false
 order: 23
 ---

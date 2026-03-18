@@ -6,8 +6,8 @@ artist_slug: "hong-ji-hyeon"
 camera_model: "Nikon Zfc"
 location: "제주도 어딘가"
 sns_id: "@hong_si_03"
-image: "/originals/hong-ji-hyeon-bada-ui-gyeonggye.jpg"
-thumb_image: "/thumbs/hong-ji-hyeon-bada-ui-gyeonggye.webp"
+image: "/assets/uploads/originals/hong-ji-hyeon-bada-ui-gyeonggye.jpg"
+thumb_image: "/assets/uploads/thumbs/hong-ji-hyeon-bada-ui-gyeonggye.webp"
 featured: false
 order: 7
 ---

@@ -6,8 +6,8 @@ artist_slug: "park-in-yeop"
 camera_model: "SONY A7M3"
 location: "난지한강공원"
 sns_id: "@no_one_just_a_kid_"
-image: "/originals/park-in-yeop-just-a-moment-ii.jpg"
-thumb_image: "/thumbs/park-in-yeop-just-a-moment-ii.webp"
+image: "/assets/uploads/originals/park-in-yeop-just-a-moment-ii.jpg"
+thumb_image: "/assets/uploads/thumbs/park-in-yeop-just-a-moment-ii.webp"
 featured: false
 order: 6
 ---

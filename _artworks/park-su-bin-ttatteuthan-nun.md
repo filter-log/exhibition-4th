@@ -6,8 +6,8 @@ artist_slug: "park-su-bin"
 camera_model: "Canon EOS 600D"
 location: "퀘벡"
 sns_id: "@its_terest_memory"
-image: "/originals/park-su-bin-ttatteuthan-nun.jpg"
-thumb_image: "/thumbs/park-su-bin-ttatteuthan-nun.webp"
+image: "/assets/uploads/originals/park-su-bin-ttatteuthan-nun.jpg"
+thumb_image: "/assets/uploads/thumbs/park-su-bin-ttatteuthan-nun.webp"
 featured: false
 order: 22
 ---

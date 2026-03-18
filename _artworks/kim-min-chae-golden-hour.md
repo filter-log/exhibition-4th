@@ -6,8 +6,8 @@ artist_slug: "kim-min-chae"
 camera_model: "Canon EOS 800D"
 location: "화성행궁"
 sns_id: "@minpic_._.oo"
-image: "/originals/kim-min-chae-golden-hour.jpeg"
-thumb_image: "/thumbs/kim-min-chae-golden-hour.webp"
+image: "/assets/uploads/originals/kim-min-chae-golden-hour.jpeg"
+thumb_image: "/assets/uploads/thumbs/kim-min-chae-golden-hour.webp"
 featured: false
 order: 16
 ---

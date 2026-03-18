@@ -5,8 +5,8 @@ artist_name: "남유찬"
 artist_slug: "nam-yu-chan"
 camera_model: "Canon EOS 70D"
 location: "서울역"
-image: "/originals/nam-yu-chan-seuchyeo.jpg"
-thumb_image: "/thumbs/nam-yu-chan-seuchyeo.webp"
+image: "/assets/uploads/originals/nam-yu-chan-seuchyeo.jpg"
+thumb_image: "/assets/uploads/thumbs/nam-yu-chan-seuchyeo.webp"
 featured: false
 order: 17
 ---

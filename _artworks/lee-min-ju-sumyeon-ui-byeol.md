@@ -5,8 +5,8 @@ artist_name: "이민주"
 artist_slug: "lee-min-ju"
 camera_model: "Canon EOS 80D"
 location: "서울숲"
-image: "/originals/lee-min-ju-sumyeon-ui-byeol.jpg"
-thumb_image: "/thumbs/lee-min-ju-sumyeon-ui-byeol.webp"
+image: "/assets/uploads/originals/lee-min-ju-sumyeon-ui-byeol.jpg"
+thumb_image: "/assets/uploads/thumbs/lee-min-ju-sumyeon-ui-byeol.webp"
 featured: false
 order: 10
 ---

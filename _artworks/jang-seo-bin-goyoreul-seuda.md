@@ -6,8 +6,8 @@ artist_slug: "jang-seo-bin"
 camera_model: "SONY A7C"
 location: "부산"
 sns_id: "@seobeen.pic"
-image: "/originals/jang-seo-bin-goyoreul-seuda.jpg"
-thumb_image: "/thumbs/jang-seo-bin-goyoreul-seuda.webp"
+image: "/assets/uploads/originals/jang-seo-bin-goyoreul-seuda.jpg"
+thumb_image: "/assets/uploads/thumbs/jang-seo-bin-goyoreul-seuda.webp"
 featured: false
 order: 19
 ---

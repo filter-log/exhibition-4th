@@ -6,8 +6,8 @@ artist_slug: "lee-ji-min"
 camera_model: "Canon EOS 200D"
 location: "은평한옥마을"
 sns_id: "@jmoom_in"
-image: "/originals/lee-ji-min-gyejeol-ui-jansang.jpg"
-thumb_image: "/thumbs/lee-ji-min-gyejeol-ui-jansang.webp"
+image: "/assets/uploads/originals/lee-ji-min-gyejeol-ui-jansang.jpg"
+thumb_image: "/assets/uploads/thumbs/lee-ji-min-gyejeol-ui-jansang.webp"
 featured: false
 order: 15
 ---

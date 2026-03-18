@@ -6,8 +6,8 @@ artist_slug: "mun-won-gyun"
 camera_model: "Canon EOS R8"
 location: "스위스 First"
 sns_id: "@pht_4264"
-image: "/originals/mun-won-gyun-haneulgwa-san-gwa-nun.jpg"
-thumb_image: "/thumbs/mun-won-gyun-haneulgwa-san-gwa-nun.webp"
+image: "/assets/uploads/originals/mun-won-gyun-haneulgwa-san-gwa-nun.jpg"
+thumb_image: "/assets/uploads/thumbs/mun-won-gyun-haneulgwa-san-gwa-nun.webp"
 featured: false
 order: 12
 ---

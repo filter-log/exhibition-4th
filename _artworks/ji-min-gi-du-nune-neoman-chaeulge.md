@@ -6,8 +6,8 @@ artist_slug: "ji-min-gi"
 camera_model: "Canon EOS R50"
 location: "호주 시드니"
 sns_id: "@miin_7l"
-image: "/originals/ji-min-gi-du-nune-neoman-chaeulge.jpg"
-thumb_image: "/thumbs/ji-min-gi-du-nune-neoman-chaeulge.webp"
+image: "/assets/uploads/originals/ji-min-gi-du-nune-neoman-chaeulge.jpg"
+thumb_image: "/assets/uploads/thumbs/ji-min-gi-du-nune-neoman-chaeulge.webp"
 featured: false
 order: 3
 ---

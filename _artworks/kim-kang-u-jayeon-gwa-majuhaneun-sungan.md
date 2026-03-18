@@ -6,8 +6,8 @@ artist_slug: "kim-kang-u"
 camera_model: "SONY A7M3"
 location: "Kazakhstan"
 sns_id: "@kogouo"
-image: "/originals/kim-kang-u-jayeon-gwa-majuhaneun-sungan.jpeg"
-thumb_image: "/thumbs/kim-kang-u-jayeon-gwa-majuhaneun-sungan.webp"
+image: "/assets/uploads/originals/kim-kang-u-jayeon-gwa-majuhaneun-sungan.jpeg"
+thumb_image: "/assets/uploads/thumbs/kim-kang-u-jayeon-gwa-majuhaneun-sungan.webp"
 featured: false
 order: 4
 ---

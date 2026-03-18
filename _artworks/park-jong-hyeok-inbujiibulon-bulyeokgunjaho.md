@@ -6,8 +6,8 @@ artist_slug: "park-jong-hyeok"
 camera_model: "Canon EOS 200D"
 location: "오사카 천수각"
 sns_id: "kbantibot@snu.ac.kr"
-image: "/originals/park-jong-hyeok-inbujiibulon-bulyeokgunjaho.jpg"
-thumb_image: "/thumbs/park-jong-hyeok-inbujiibulon-bulyeokgunjaho.webp"
+image: "/assets/uploads/originals/park-jong-hyeok-inbujiibulon-bulyeokgunjaho.jpg"
+thumb_image: "/assets/uploads/thumbs/park-jong-hyeok-inbujiibulon-bulyeokgunjaho.webp"
 featured: false
 order: 28
 ---

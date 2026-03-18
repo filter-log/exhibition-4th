@@ -6,8 +6,8 @@ artist_slug: "yang-jun-seo"
 camera_model: "SONY A7M4"
 location: "해방촌"
 sns_id: "urchlve"
-image: "/originals/yang-jun-seo-dongnip-yeonghwa.jpg"
-thumb_image: "/thumbs/yang-jun-seo-dongnip-yeonghwa.webp"
+image: "/assets/uploads/originals/yang-jun-seo-dongnip-yeonghwa.jpg"
+thumb_image: "/assets/uploads/thumbs/yang-jun-seo-dongnip-yeonghwa.webp"
 featured: false
 order: 29
 ---

@@ -6,8 +6,8 @@ artist_slug: "lee-ji-min"
 camera_model: "iPhone 17 Pro"
 location: "을왕리"
 sns_id: "@jmoom_in"
-image: "/originals/lee-ji-min-challanhan-mueon.jpg"
-thumb_image: "/thumbs/lee-ji-min-challanhan-mueon.webp"
+image: "/assets/uploads/originals/lee-ji-min-challanhan-mueon.jpg"
+thumb_image: "/assets/uploads/thumbs/lee-ji-min-challanhan-mueon.webp"
 featured: false
 order: 14
 ---

@@ -5,8 +5,8 @@ artist_name: "안정우"
 artist_slug: "an-jeong-u"
 camera_model: "SONY A7M4"
 location: "동작대교"
-image: "/originals/an-jeong-u-yeongwon-ui-yaksok.jpg"
-thumb_image: "/thumbs/an-jeong-u-yeongwon-ui-yaksok.webp"
+image: "/assets/uploads/originals/an-jeong-u-yeongwon-ui-yaksok.jpg"
+thumb_image: "/assets/uploads/thumbs/an-jeong-u-yeongwon-ui-yaksok.webp"
 featured: false
 order: 31
 ---

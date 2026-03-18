@@ -6,8 +6,8 @@ artist_slug: "kim-hee-ra"
 camera_model: "Canon Powershot SX510 HS"
 location: "Castel Gandolfo, Italy"
 sns_id: "@view.of.velvet"
-image: "/originals/kim-hee-ra-neutyeoreum-ui-hyuga.jpg"
-thumb_image: "/thumbs/kim-hee-ra-neutyeoreum-ui-hyuga.webp"
+image: "/assets/uploads/originals/kim-hee-ra-neutyeoreum-ui-hyuga.jpg"
+thumb_image: "/assets/uploads/thumbs/kim-hee-ra-neutyeoreum-ui-hyuga.webp"
 featured: false
 order: 27
 ---

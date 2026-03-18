@@ -6,8 +6,8 @@ artist_slug: "choi-sang-jun"
 camera_model: "Fujifilm X-T30 II"
 location: "Piazzale Michelangelo"
 sns_id: "@leumas0216"
-image: "/originals/choi-sang-jun-hollo-majuhan-suchaehwa-gyeoul-ui-pirenche.jpg"
-thumb_image: "/thumbs/choi-sang-jun-hollo-majuhan-suchaehwa-gyeoul-ui-pirenche.webp"
+image: "/assets/uploads/originals/choi-sang-jun-hollo-majuhan-suchaehwa-gyeoul-ui-pirenche.jpg"
+thumb_image: "/assets/uploads/thumbs/choi-sang-jun-hollo-majuhan-suchaehwa-gyeoul-ui-pirenche.webp"
 featured: false
 order: 11
 ---

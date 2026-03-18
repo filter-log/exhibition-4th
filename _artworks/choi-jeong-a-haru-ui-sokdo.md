@@ -6,8 +6,8 @@ artist_slug: "choi-jeong-a"
 camera_model: "Canon EOS 200D"
 location: "상하이 주가각(朱家角)"
 sns_id: "@a._.azuur"
-image: "/originals/choi-jeong-a-haru-ui-sokdo.jpg"
-thumb_image: "/thumbs/choi-jeong-a-haru-ui-sokdo.webp"
+image: "/assets/uploads/originals/choi-jeong-a-haru-ui-sokdo.jpg"
+thumb_image: "/assets/uploads/thumbs/choi-jeong-a-haru-ui-sokdo.webp"
 featured: false
 order: 1
 ---

@@ -6,8 +6,8 @@ artist_slug: "lee-un-yeong"
 camera_model: "Canon EOS R6m2"
 location: "馬籠宿の池"
 sns_id: "@luy_luciscriba"
-image: "/originals/lee-un-yeong-mul-ui-siseon.jpg"
-thumb_image: "/thumbs/lee-un-yeong-mul-ui-siseon.webp"
+image: "/assets/uploads/originals/lee-un-yeong-mul-ui-siseon.jpg"
+thumb_image: "/assets/uploads/thumbs/lee-un-yeong-mul-ui-siseon.webp"
 featured: false
 order: 24
 ---

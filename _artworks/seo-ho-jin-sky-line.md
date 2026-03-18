@@ -6,8 +6,8 @@ artist_slug: "seo-ho-jin"
 camera_model: "Canon EOS R50"
 location: "튀르키에 카파도키아"
 sns_id: "@ro_.jin"
-image: "/originals/seo-ho-jin-sky-line.jpeg"
-thumb_image: "/thumbs/seo-ho-jin-sky-line.webp"
+image: "/assets/uploads/originals/seo-ho-jin-sky-line.jpeg"
+thumb_image: "/assets/uploads/thumbs/seo-ho-jin-sky-line.webp"
 featured: false
 order: 9
 ---

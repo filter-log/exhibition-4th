@@ -5,8 +5,8 @@ artist_name: "남유찬"
 artist_slug: "nam-yu-chan"
 camera_model: "Canon EOS 70D"
 location: "DDP"
-image: "/originals/nam-yu-chan-abeojiwa-na.jpg"
-thumb_image: "/thumbs/nam-yu-chan-abeojiwa-na.webp"
+image: "/assets/uploads/originals/nam-yu-chan-abeojiwa-na.jpg"
+thumb_image: "/assets/uploads/thumbs/nam-yu-chan-abeojiwa-na.webp"
 featured: false
 order: 18
 ---

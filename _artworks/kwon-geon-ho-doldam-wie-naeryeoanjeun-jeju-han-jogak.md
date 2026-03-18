@@ -6,8 +6,8 @@ artist_slug: "kwon-geon-ho"
 camera_model: "Canon AE-1 Program"
 location: "제주도"
 sns_id: "@knhkwn"
-image: "/originals/kwon-geon-ho-doldam-wie-naeryeoanjeun-jeju-han-jogak.jpeg"
-thumb_image: "/thumbs/kwon-geon-ho-doldam-wie-naeryeoanjeun-jeju-han-jogak.webp"
+image: "/assets/uploads/originals/kwon-geon-ho-doldam-wie-naeryeoanjeun-jeju-han-jogak.jpeg"
+thumb_image: "/assets/uploads/thumbs/kwon-geon-ho-doldam-wie-naeryeoanjeun-jeju-han-jogak.webp"
 featured: false
 order: 21
 ---

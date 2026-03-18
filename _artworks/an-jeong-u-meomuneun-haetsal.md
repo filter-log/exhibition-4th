@@ -5,8 +5,8 @@ artist_name: "안정우"
 artist_slug: "an-jeong-u"
 camera_model: "SONY A7M4"
 location: "남이섬"
-image: "/originals/an-jeong-u-meomuneun-haetsal.jpg"
-thumb_image: "/thumbs/an-jeong-u-meomuneun-haetsal.webp"
+image: "/assets/uploads/originals/an-jeong-u-meomuneun-haetsal.jpg"
+thumb_image: "/assets/uploads/thumbs/an-jeong-u-meomuneun-haetsal.webp"
 featured: false
 order: 30
 ---

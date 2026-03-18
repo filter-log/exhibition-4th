@@ -6,8 +6,8 @@ artist_slug: "lee-sae-gyeol"
 camera_model: "SONY A7C2"
 location: "창덕궁"
 sns_id: "@takeapicture_lee"
-image: "/originals/lee-sae-gyeol-fall-in-autumn.jpg"
-thumb_image: "/thumbs/lee-sae-gyeol-fall-in-autumn.webp"
+image: "/assets/uploads/originals/lee-sae-gyeol-fall-in-autumn.jpg"
+thumb_image: "/assets/uploads/thumbs/lee-sae-gyeol-fall-in-autumn.webp"
 featured: false
 order: 32
 ---

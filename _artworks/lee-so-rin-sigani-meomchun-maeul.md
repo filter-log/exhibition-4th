@@ -5,8 +5,8 @@ artist_name: "이소린"
 artist_slug: "lee-so-rin"
 camera_model: "Fujiflim X-T50"
 location: "오시노핫카이(忍野八海)"
-image: "/originals/lee-so-rin-sigani-meomchun-maeul.jpeg"
-thumb_image: "/thumbs/lee-so-rin-sigani-meomchun-maeul.webp"
+image: "/assets/uploads/originals/lee-so-rin-sigani-meomchun-maeul.jpeg"
+thumb_image: "/assets/uploads/thumbs/lee-so-rin-sigani-meomchun-maeul.webp"
 featured: false
 order: 26
 ---
