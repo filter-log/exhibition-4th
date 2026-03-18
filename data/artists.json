@@ -3,219 +3,200 @@
     "name": "최정아",
     "slug": "choi-jeong-a",
     "camera_model": "Canon EOS 200D",
-    "order": 1,
     "portrait_image": "/assets/exhibition/artist-placeholder.svg",
-    "sns_id": "@a._.azuur",
+    "order": 1,
     "body": "여행지의 일상에서 서로 다른 삶의 속도를 포착하는 사진가다. 잠시 스쳐 가는 체류자의 시선으로 평범한 하루의 리듬과 잔상을 기록한다."
   },
   {
     "name": "조영인",
     "slug": "jo-yeong-in",
     "camera_model": "Canon EOS R5",
-    "order": 2,
     "portrait_image": "/assets/exhibition/artist-placeholder.svg",
+    "order": 2,
     "body": "구름과 노을 사이를 가르는 짧은 빛의 순간에 주목한다. 어둠 속에서도 스며드는 희망의 감각을 풍경 안에서 길어 올린다."
   },
   {
     "name": "지민기",
     "slug": "ji-min-gi",
     "camera_model": "Canon EOS R50",
-    "order": 3,
     "portrait_image": "/assets/exhibition/artist-placeholder.svg",
-    "sns_id": "@miin_7l",
+    "order": 3,
     "body": "여행지의 따스한 빛과 사랑의 감정을 함께 기록한다. 눈앞의 풍경보다 마음에 오래 남는 사람과 순간의 온도를 중요하게 여긴다."
   },
   {
     "name": "김강우",
     "slug": "kim-kang-u",
     "camera_model": "SONY A7M3",
-    "order": 4,
     "portrait_image": "/assets/exhibition/artist-placeholder.svg",
-    "sns_id": "@kogouo",
+    "order": 4,
     "body": "자연을 가장 조용한 안식처로 받아들이는 사진가다. 변하지 않는 풍경이 건네는 위로와 성찰의 시간을 한 장면 안에 담아낸다."
   },
   {
     "name": "박인엽",
     "slug": "park-in-yeop",
     "camera_model": "SONY A7M3",
-    "order": 5,
     "portrait_image": "/assets/exhibition/artist-placeholder.svg",
-    "sns_id": "@no_one_just_a_kid_",
+    "order": 5,
     "body": "도시의 거친 호흡 속에서 잠시 멈추는 순간을 포착한다. 담배 연기, 햇빛, 기다림 같은 사소한 장면을 통해 작은 쉼과 감정의 틈을 기록한다."
   },
   {
     "name": "홍지현",
     "slug": "hong-ji-hyeon",
     "camera_model": "Nikon Zfc",
-    "order": 6,
     "portrait_image": "/assets/exhibition/artist-placeholder.svg",
-    "sns_id": "@hong_si_03",
+    "order": 6,
     "body": "바다와 하늘이 맞닿는 경계의 깊이를 바라본다. 제주의 푸른 풍경과 등대의 존재감을 통해 끝없이 이어지는 수평의 감각을 전한다."
   },
   {
     "name": "지소은",
     "slug": "ji-so-eun",
     "camera_model": "SONY A7C",
-    "order": 7,
     "portrait_image": "/assets/exhibition/artist-placeholder.svg",
+    "order": 7,
     "body": "평범한 하루를 살아내는 마음의 힘에 관심이 많다. 서두르지 않는 시선으로 삶을 배워가는 과정과 작은 다짐을 담담하게 기록한다."
   },
   {
     "name": "서호진",
     "slug": "seo-ho-jin",
     "camera_model": "Canon EOS R50",
-    "order": 8,
     "portrait_image": "/assets/exhibition/artist-placeholder.svg",
-    "sns_id": "@ro_.jin",
+    "order": 8,
     "body": "하늘이 열어주는 넓은 시야와 계절의 결을 간결하게 담는다. 짧은 문장처럼 남는 풍경 안에서 가을의 길을 포착한다."
   },
   {
     "name": "이민주",
     "slug": "lee-min-ju",
     "camera_model": "Canon EOS 80D",
-    "order": 9,
     "portrait_image": "/assets/exhibition/artist-placeholder.svg",
+    "order": 9,
     "body": "고요한 수면 위에 내려앉은 평온을 섬세하게 바라본다. 낮은 곳에서 반짝이는 꽃과 물결을 통해 숨을 고르게 하는 장면을 만든다."
   },
   {
     "name": "최상준",
     "slug": "choi-sang-jun",
     "camera_model": "Fujifilm X-T30 II",
-    "order": 10,
     "portrait_image": "/assets/exhibition/artist-placeholder.svg",
-    "sns_id": "@leumas0216",
+    "order": 10,
     "body": "낯선 도시의 풍경에서 오히려 다정한 위로를 발견한다. 여행지와 일상의 경계가 흐려지는 순간을 수채화 같은 색으로 기록한다."
   },
   {
     "name": "문원균",
     "slug": "mun-won-gyun",
     "camera_model": "Canon EOS R8",
-    "order": 11,
     "portrait_image": "/assets/exhibition/artist-placeholder.svg",
-    "sns_id": "@pht_4264",
+    "order": 11,
     "body": "디지털 시대에 잊기 쉬운 위를 올려다보는 시간을 사진으로 환기한다. 하늘과 산, 눈이 주는 압도적인 여백 속에 여유를 담는다."
   },
   {
     "name": "염승현",
     "slug": "yeom-seung-hyeon",
     "camera_model": "SONY A5100",
-    "order": 12,
     "portrait_image": "/assets/exhibition/artist-placeholder.svg",
-    "sns_id": "@photo.lill",
+    "order": 12,
     "body": "고산의 새벽이 보여주는 극적인 빛의 변화를 좇는다. 자연이 허락한 찰나의 장관을 압도적인 스케일과 함께 기록한다."
   },
   {
     "name": "이지민",
     "slug": "lee-ji-min",
     "camera_model": "iPhone 17 Pro / Canon EOS 200D",
-    "order": 13,
     "portrait_image": "/assets/exhibition/artist-placeholder.svg",
-    "sns_id": "@jmoom_in",
+    "order": 13,
     "body": "겨울과 한옥의 풍경 속에서 말없이 스며드는 온기를 찾는다. 담백한 시선과 서정적인 문장으로 계절의 잔상과 빛의 위로를 풀어낸다."
   },
   {
     "name": "김민채",
     "slug": "kim-min-chae",
     "camera_model": "Canon EOS 800D",
-    "order": 14,
     "portrait_image": "/assets/exhibition/artist-placeholder.svg",
-    "sns_id": "@minpic_._.oo",
+    "order": 14,
     "body": "저무는 시간의 색이 남기는 감정에 주목한다. 함께한 순간이 계절의 기억으로 오래 남는 장면을 따뜻한 황금빛으로 기록한다."
   },
   {
     "name": "남유찬",
     "slug": "nam-yu-chan",
     "camera_model": "Canon EOS 70D",
-    "order": 15,
     "portrait_image": "/assets/exhibition/artist-placeholder.svg",
+    "order": 15,
     "body": "스쳐 가는 인연과 가까운 관계의 거리감을 함께 바라본다. 사람 사이에 남는 여운과 기억의 결을 담백한 시선으로 포착한다."
   },
   {
     "name": "장서빈",
     "slug": "jang-seo-bin",
     "camera_model": "SONY A7C",
-    "order": 16,
     "portrait_image": "/assets/exhibition/artist-placeholder.svg",
-    "sns_id": "@seobeen.pic",
+    "order": 16,
     "body": "도시와 해안의 구조를 선, 밀도, 긴장감의 언어로 해석한다. 정제된 프레임 안에서 질서와 고요가 교차하는 장면을 구축한다."
   },
   {
     "name": "권건호",
     "slug": "kwon-geon-ho",
     "camera_model": "Canon AE-1 Program",
-    "order": 17,
     "portrait_image": "/assets/exhibition/artist-placeholder.svg",
-    "sns_id": "@knhkwn",
+    "order": 17,
     "body": "제주의 돌담과 감귤처럼 지역의 촉감이 선명한 풍경에 끌린다. 천천히 익어가는 계절의 시간과 생활의 이야기를 사진에 담는다."
   },
   {
     "name": "박수빈",
     "slug": "park-su-bin",
     "camera_model": "Canon EOS 600D",
-    "order": 18,
     "portrait_image": "/assets/exhibition/artist-placeholder.svg",
-    "sns_id": "@its_terest_memory",
+    "order": 18,
     "body": "차가운 계절과 높은 하늘에서도 발견되는 따뜻함을 기록한다. 눈과 도시의 틈새에서 자신을 다시 다지는 감정의 울타리를 찾는다."
   },
   {
     "name": "이운영",
     "slug": "lee-un-yeong",
     "camera_model": "Canon EOS R6m2",
-    "order": 19,
     "portrait_image": "/assets/exhibition/artist-placeholder.svg",
-    "sns_id": "@luy_luciscriba",
+    "order": 19,
     "body": "말없이 비추는 물과 눈 덮인 숲의 침묵을 응시한다. 최소한의 장면으로도 깊은 고요와 피난처의 감각을 전하는 작업을 이어간다."
   },
   {
     "name": "이소린",
     "slug": "lee-so-rin",
     "camera_model": "Fujiflim X-T50",
-    "order": 20,
     "portrait_image": "/assets/exhibition/artist-placeholder.svg",
+    "order": 20,
     "body": "고요가 풍경의 시간을 멈추는 순간을 사랑한다. 선명한 자연과 마을의 정적을 통해 마음에 숨표를 놓는 이미지를 만든다."
   },
   {
     "name": "김희라",
     "slug": "kim-hee-ra",
     "camera_model": "Canon Powershot SX510 HS",
-    "order": 21,
     "portrait_image": "/assets/exhibition/artist-placeholder.svg",
-    "sns_id": "@view.of.velvet",
+    "order": 21,
     "body": "늦여름과 초가을 사이의 나른한 햇살을 오래 바라본다. 계절이 완전히 넘어가기 직전의 여운을 부드럽게 기록한다."
   },
   {
     "name": "박종혁",
     "slug": "park-jong-hyeok",
     "camera_model": "Canon EOS 200D",
-    "order": 22,
     "portrait_image": "/assets/exhibition/artist-placeholder.svg",
-    "sns_id": "kbantibot@snu.ac.kr",
+    "order": 22,
     "body": "타인의 인정과 무관하게 스스로를 지키는 태도를 사진에 담는다. 고독하지만 흔들리지 않는 마음을 간결한 문장처럼 남긴다."
   },
   {
     "name": "양준서",
     "slug": "yang-jun-seo",
     "camera_model": "SONY A7M4",
-    "order": 23,
     "portrait_image": "/assets/exhibition/artist-placeholder.svg",
-    "sns_id": "urchlve",
+    "order": 23,
     "body": "잊을 수 없는 순간이 쌓여 하나의 삶을 이룬다고 믿는다. 일상의 장면을 독립영화의 한 프레임처럼 응시한다."
   },
   {
     "name": "안정우",
     "slug": "an-jeong-u",
     "camera_model": "SONY A7M4",
-    "order": 24,
     "portrait_image": "/assets/exhibition/artist-placeholder.svg",
+    "order": 24,
     "body": "머무는 빛과 서로를 바라보는 마음을 따뜻하게 포착한다. 풍경과 인물이 만나는 지점에서 조용한 온기와 영원의 감정을 끌어낸다."
   },
   {
     "name": "이새결",
     "slug": "lee-sae-gyeol",
     "camera_model": "SONY A7C2",
-    "order": 25,
     "portrait_image": "/assets/exhibition/artist-placeholder.svg",
-    "sns_id": "@takeapicture_lee",
+    "order": 25,
     "body": "고궁에 내려앉는 가을의 흐름을 경쾌한 리듬으로 담는다. 장소의 역사성과 계절의 생동감을 한 장면 안에 포개는 작업을 한다."
   }
 ]
