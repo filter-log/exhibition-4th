@@ -1,5 +1,5 @@
 ---
-title: "필터 네번째 사진전 온화: 溫和"
+title: "온화: 溫和"
 slug: exhibition-4th
 dates: 2026.03.27 - 2026.03.29
 venue: 레온갤러리 구의
