@@ -3,7 +3,7 @@ title: "온화: 溫和"
 slug: exhibition-4th
 dates: 2026.03.27 - 2026.03.29
 venue: 레온갤러리 구의
-tagline: 필링이들의 네번째 이야기
+tagline: 대학생 연합 사진동아리 FILTER 10기 사진전
 poster_image: /assets/exhibition/exhibition-4th.png
 hero_alt: Filter 4th Exhibition poster
 cms_url: https://app.pagescms.org/filter-log/exhibition-4th/main
